@@ -33,7 +33,7 @@ body {
 
 .jumbotron {
   background-color: #007bff;
-  color: white;
+  color: rgb(29, 29, 29);
   border-radius: 0;
   padding: 2rem;
   text-align: center;
